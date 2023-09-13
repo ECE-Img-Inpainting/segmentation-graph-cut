@@ -20,6 +20,12 @@ This code implements segmentation using graph cut, specifically, it first conver
 
 ## Results
 
+<p float="left">
+  <img src="demo/bird_origin.jpg" width="100" />
+  <img src="demo/bird_painted.jpg" width="100" /> 
+  <img src="demo/bird_mask.jpg" width="100" />
+</p>
+
 <img src="demo/bird_origin.jpg" width="396" height="260">
 <img src="demo/bird_painted.jpg" width="307" height="260">
 <img src="demo/bird_mask.jpg" width="396" height="260">
