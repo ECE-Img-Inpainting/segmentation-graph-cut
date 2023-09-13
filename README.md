@@ -27,7 +27,7 @@ This code implements segmentation using graph cut, specifically, it first conver
 </p>
 
 <p float="left">
-  <img src="demo/originl7.jpg" height="150" />
+  <img src="demo/original7.jpg" height="150" />
   <img src="demo/painted7.jpg" height="150" /> 
   <img src="demo/mask7.jpg" height="150" />
 </p>
