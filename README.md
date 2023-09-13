@@ -21,9 +21,9 @@ This code implements segmentation using graph cut, specifically, it first conver
 ## Results
 
 <p float="left">
-  <img src="demo/bird_origin.jpg" width="100" />
-  <img src="demo/bird_painted.jpg" width="100" /> 
-  <img src="demo/bird_mask.jpg" width="100" />
+  <img src="demo/bird_origin.jpg" height="150" />
+  <img src="demo/bird_painted.jpg" height="150" /> 
+  <img src="demo/bird_mask.jpg" height="150" />
 </p>
 
 <img src="demo/bird_origin.jpg" width="396" height="260">
