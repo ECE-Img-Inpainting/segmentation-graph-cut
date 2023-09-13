@@ -26,6 +26,8 @@ This code implements segmentation using graph cut, specifically, it first conver
   <img src="demo/bird_mask.jpg" height="150" />
 </p>
 
-<img src="demo/bird_origin.jpg" width="396" height="260">
-<img src="demo/bird_painted.jpg" width="307" height="260">
-<img src="demo/bird_mask.jpg" width="396" height="260">
+<p float="left">
+  <img src="demo/originl7.jpg" height="150" />
+  <img src="demo/painted7.jpg" height="150" /> 
+  <img src="demo/mask7.jpg" height="150" />
+</p>
